@@ -1,3 +1,4 @@
 .bundle
 vendor
 tmp/restart.txt
+silex.phar
