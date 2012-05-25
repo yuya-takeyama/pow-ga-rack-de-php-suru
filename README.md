@@ -31,7 +31,7 @@ Pow とは
 Mac OSX 専用の Rack アプリケーション開発サーバ。  
 Rack アプリケーションであれば何でもいいので、Rails も Sinatra も Padrino も動く。
 
-$HOME/.pow ディレクトリに example という名前でシンボリックリンクを作成すると、example.dev という TLD でアクセスでき、ブラウザ上でアプリケーションが実行できる。
+$HOME/.pow ディレクトリに example という名前でシンボリックリンクを作成すると、example.dev という URL でアクセスでき、ブラウザ上でアプリケーションが実行できる。
 
 Apache の VirtualHost を書くような面倒な作業が全くいらずにいくらでも開発環境を作れるので、Ruby の Web アプリケーション開発には重宝されている (らしい) 。
 
